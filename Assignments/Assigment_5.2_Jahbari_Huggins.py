@@ -18,7 +18,7 @@ while True:
         smallest = num
 
 def done(largest,smallest):
-    print "Maximum is", int(largest)  
-    print "Minimum is", int(smallest)
+    print "Maximum is", largest  
+    print "Minimum is", smallest
 
 done(largest,smallest)
